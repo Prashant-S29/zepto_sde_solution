@@ -66,7 +66,7 @@ const HOME = () => {
           <div className="mt-[20px]">
             <div>
               <span className="text-[14px] font-bold">
-                Protfolio:{" "}
+                Portfolio:{" "}
                 <Link
                   href="https://code-prashant.vercel.app/"
                   target="_blank"

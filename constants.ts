@@ -7,42 +7,42 @@ const TEAM_MEMBER_LIST: {
   memberMail: string;
 }[] = [
   {
-    memberName: "AnkitaSharma",
+    memberName: "Ankita Sharma",
     memberPhoto: avatarImages,
     memberMail: "dummymail@1520",
   },
   {
-    memberName: "MohanDas",
+    memberName: "Mohan Das",
     memberPhoto: avatarImages,
     memberMail: "dummymail@1521",
   },
   {
-    memberName: "ShubhamMehta",
+    memberName: "Shubham Mehta",
     memberPhoto: avatarImages,
     memberMail: "dummymail@1522",
   },
   {
-    memberName: "PrashantSingh",
+    memberName: "Prashant Singh",
     memberPhoto: avatarImages,
     memberMail: "dummymail@1523",
   },
   {
-    memberName: "RajSingh",
+    memberName: "Raj Singh",
     memberPhoto: avatarImages,
     memberMail: "dummymail@1524",
   },
   {
-    memberName: "RajeshwerSingh",
+    memberName: "Rajeshwer Singh",
     memberPhoto: avatarImages,
     memberMail: "dummymail@1525",
   },
   {
-    memberName: "ParthSharma",
+    memberName: "Parth Sharma",
     memberPhoto: avatarImages,
     memberMail: "dummymail@1526",
   },
   {
-    memberName: "SumitRathode",
+    memberName: "Sumit Rathode",
     memberPhoto: avatarImages,
     memberMail: "dummymail@1527",
   },
