@@ -52,7 +52,7 @@ const HOME = () => {
           <div className="my-[20px]">
             <div>
               <span className="text-[14px] font-bold">
-                Who am I? <br /> I am 2 yrs freelancer web developer and
+                Who am I? <br /> I am 2 yrs experienced freelancer web developer and
                 designer experties in frontend. My core skills revolves around
                 MERN.
                 <br />
