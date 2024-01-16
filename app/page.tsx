@@ -53,8 +53,7 @@ const HOME = () => {
             <div>
               <span className="text-[14px] font-bold">
                 Who am I? <br /> I am 2 yrs experienced freelancer web developer and
-                designer experties in frontend. My core skills revolves around
-                MERN.
+                designer experties in frontend. From past 3 months I am developing firm grip over Backend too. My core skills revolves around MERN stack.
                 <br />
                 <span className="bg-yellow-300">
                   <u>Looking for a positive call !!</u>
